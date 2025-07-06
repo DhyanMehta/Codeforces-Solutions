@@ -2,7 +2,8 @@
 ```markdown
 # Codeforces Solutions
 
-This repository contains my solutions to various [Codeforces](https://codeforces.com/) competitive programming problems.
+This repository contains my solutions to various [Codeforces](https://codeforces.com/) competitive
+programming problems.
 
 ---
 
