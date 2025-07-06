@@ -34,7 +34,7 @@ Each file is named based on the problem title in a consistent format.
 
 ## 🛠 Languages Used
 
-- [x] C++ (Primary)
+- C++ (Primary)
 
 
 ## 📚 Usage
